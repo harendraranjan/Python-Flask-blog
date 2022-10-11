@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/sadhayeducation",
+    "prod_uri":"mysql://root:@localhost/sadhayeducation",
+    "fb_url": "https://www.facebook.com/harendra.ranjan.3",
+    "tw_url": "https://twitter.com/HarendraRranjan_",
+    "gh_url": "https://github.com/harendraranjan",
+    "blog_name":"SadhayEducation",
+    "tag_line": " Feel free to ask any thing ",
+    "gmail-user": "ranjanhrendr@gmail.com",
+    "gmail-password": "23061995",
+    "about_text": "Hi my name is harendra ranjan and I create programming tutorials and I am a good boy",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "harendra",
+    "admin_password": "230695",
+    "upload_location":"C:\\Users\\harer\\PycharmProjects\\FirstsProject\\static\\img "
+
+  }
+}
